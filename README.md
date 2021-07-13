@@ -5,7 +5,7 @@ Pasos para hacer deploy de una aplicación hecha en .Net Core en Heroku
 - .Net Core
 - GIT
 
-#Escribri los siguientes comandos en el CLI:
+#Escribir los siguientes comandos en el CLI:
 - heroku login
 - heroku create {AppName}
 - heroku buildpacks:set jincod/dotnetcore
