@@ -12,4 +12,4 @@ Pasos para hacer deploy de una aplicación hecha en .Net Core en Heroku
 - git push heroku {rama}
 
 ## Nota: 
-- Debe estar ubicado dentro del directorio de su App.
+- Para ejecutar los comandos anteriores debe estar ubicado dentro del directorio de su App.
